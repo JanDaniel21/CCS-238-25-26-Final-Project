@@ -1,6 +1,8 @@
 # CCS-238-25-26-Final-Project
 This repository is used for submitting the final project of students taking the course CCS 248
 
+You will be submitting the requirements here, including the a) Source code/s (.ipynb), Documentation (.pdf), and trained model (.h5/.hdf5/.keras/.pb) 
+
 For the submission of your source codes, please follow the following steps:
 (Note: only one member will do the steps below)
 
